@@ -1,4 +1,4 @@
-VERSION = "0.2.8"  # Version const for publish script
+VERSION = "1.0.0"  # Version const for publish script
 
 from pathlib import Path
 from setuptools import setup
