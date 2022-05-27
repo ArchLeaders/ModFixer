@@ -4,6 +4,15 @@ A simple tool to recalculate the RSTB and pack various archives on the fly withi
 
 <br>
 
+## Installing:
+
+To install the python module, type `pip install modfixer` in a command prompt window.<br>
+**This module is <ins>required</ins> for the AHK script and registry edits to work!**
+
+The Build/Unbuild SARC commands can be added to the File Explorer context menu by downloading and running the [SarcTools.reg](https://raw.githubusercontent.com/ArchLeaders/ModFixer/master/Tools/SarcTools.reg) file.
+
+To enable the Hotkeys, download and install [AutoHotkey](https://www.autohotkey.com/download/ahk-install.exe) _(may or may not be required to use the EXE)_ and run the [AHK script](https://github.com/ArchLeaders/ModFixer/raw/master/Tools/BotwModFixer.ahk) or [built executable](https://github.com/ArchLeaders/ModFixer/raw/master/Tools/BotwModFixerHotkeys.exe).
+
 ## Commands:
 
 _Note: Hotkeys with `Shift` leave the CLI open after running the command._
